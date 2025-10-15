@@ -1,0 +1,13 @@
+name: 30-seconds-of-code
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/47800bbd-d089-47f2-95f9-84e7d6787bdc
+description: Coding articles to level up your development skills
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
